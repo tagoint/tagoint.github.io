@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tagoint.github.io/sitemap.html.gz
+Sitemap: https://tagoint.github.io/app/sitemap.html.gz
+Sitemap: https://tagoint.github.io/assets/sitemap.html.gz
+Sitemap: https://tagoint.github.io/css/sitemap.html.gz
+Sitemap: https://tagoint.github.io/data/sitemap.html.gz
+Sitemap: https://tagoint.github.io/includes/sitemap.html.gz
+Sitemap: https://tagoint.github.io/item/sitemap.html.gz
+Sitemap: https://tagoint.github.io/src/sitemap.html.gz
